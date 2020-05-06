@@ -1,0 +1,25 @@
+{
+  "name": "express-hls-example",
+  "version": "1.0.0",
+  "description": "Express, HLS를 사용한 간단한 동영상 스트리밍 예제",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoseungJang/express-hls-example.git"
+  },
+  "author": "HoseungJang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoseungJang/express-hls-example/issues"
+  },
+  "homepage": "https://github.com/HoseungJang/express-hls-example#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "hls-server": "^1.5.0"
+  }
+}
