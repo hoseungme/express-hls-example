@@ -20,6 +20,7 @@ new hls(server, {
             fs.access(__dirname + req.url, fs.constants.F_OK, function (err) {
                 if (err) {
                     console.log('File not exist');
+                    return cb(null, false);
                 }
                 cb(null, true);
             });
