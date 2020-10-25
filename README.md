@@ -2,7 +2,17 @@
 
 Express와 HLS로 동영상을 스트리밍하는 예제입니다.
 
-Example that stream video using HLS and Node.js
+This is an example that stream video using HLS and Node.js
+
+## 참조
+
+예제에 대해 설명한 블로그 글 주소입니다.
+
+The links below are my blog posts that explain about this example.
+
+[한국어](https://medium.com/@HoseungJang/node-js-express-hls%EB%A1%9C-%EB%8F%99%EC%98%81%EC%83%81-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%ED%95%98%EA%B8%B0-46006408a0e6)
+
+[English](https://medium.com/@HoseungJang/video-streaming-with-node-js-9401213a04e7)
 
 ## 시작하기
 
