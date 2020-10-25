@@ -6,13 +6,13 @@ This is an example that stream video using HLS and Node.js
 
 ## 참조
 
-예제에 대해 설명한 블로그 글 주소입니다.
+예제에 대해 설명한 블로그 글 입니다. 한국어와 영어 중 하나로 보실 수 있습니다.
 
-The links below are my blog posts that explain about this example.
+The links below are my blog posts that explain about this example. You can choose between Korean and English.
 
-[한국어](https://medium.com/@HoseungJang/node-js-express-hls%EB%A1%9C-%EB%8F%99%EC%98%81%EC%83%81-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%ED%95%98%EA%B8%B0-46006408a0e6)
+[Node.js, Express, HLS로 동영상 스트리밍하기 (한국어)](https://medium.com/@HoseungJang/node-js-express-hls%EB%A1%9C-%EB%8F%99%EC%98%81%EC%83%81-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%ED%95%98%EA%B8%B0-46006408a0e6)
 
-[English](https://medium.com/@HoseungJang/video-streaming-with-node-js-9401213a04e7)
+[Video Streaming with Node.js / HLS (English)](https://medium.com/@HoseungJang/video-streaming-with-node-js-9401213a04e7)
 
 ## 시작하기
 
